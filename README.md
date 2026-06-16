@@ -69,3 +69,9 @@ Tools:
 * Advanced React.js
 * MERN Stack Development
 * System Design
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujachorghe&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujachorghe&layout=compact&theme=dark)
