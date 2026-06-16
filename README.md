@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Rutuja Chorghe
 
-<!--
-**rutujachorghe/rutujachorghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React.js Developer | Frontend Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate React Developer with experience in building responsive web applications using React.js, JavaScript, Redux Toolkit, Tailwind CSS, Bootstrap, Node.js, Express.js, and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+Frontend:
+
+* React.js
+* JavaScript (ES6+)
+* Redux Toolkit
+* Tailwind CSS
+* Bootstrap
+* HTML5
+* CSS3
+
+Backend:
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+Database:
+
+* MongoDB
+* MySQL
+
+Tools:
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+## 🚀 Featured Projects
+
+### Employee Management System
+
+* JWT Authentication & Authorization
+* Role-Based Access Control
+* Admin, Manager & Employee Dashboards
+* React.js, Redux Toolkit, Node.js, MongoDB
+
+### Task Management System
+
+* CRUD Operations
+* State Management using Redux Toolkit
+* Search, Filter & Priority Management
+* Responsive UI
+
+### Shopping Website
+
+* Product Search & Category Filtering
+* Add to Cart & Wishlist
+* API Integration
+* Responsive E-Commerce Interface
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/rutuja-chorghe-462477282
+* GitHub: github.com/rutujachorghe
+* Email: [rutujachorghe12@gmail.com](mailto:rutujachorghe12@gmail.com)
+
+## 🌱 Currently Learning
+
+* Advanced React.js
+* MERN Stack Development
+* System Design
