@@ -75,3 +75,14 @@ Tools:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujachorghe&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujachorghe&layout=compact&theme=dark)
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/rutuja-chorghe-462477282
+
+Email:
+rutujachorghe12@gmail.com
+
+Portfolio:
+(Add portfolio link)
